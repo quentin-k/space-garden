@@ -1,6 +1,6 @@
 # Space Garden
 A high contrast colorscheme that is easy on the eyes.
-#colors
+# Colors
 | Palette | Hex | Color |
 |---|---|---|
 | Black 00 | `#151617`| ![#151617](https://via.placeholder.com/15/151617/000000?text=+) |
