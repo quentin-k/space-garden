@@ -27,8 +27,10 @@ A high contrast colorscheme that is easy on the eyes.
 | Light Yellow | `#bec56e`| ![#bec56e](https://via.placeholder.com/15/bec56e/000000?text=+) |
 | Dark Purple | `#6942b8`| ![#6942b8](https://via.placeholder.com/15/6942b8/000000?text=+) |
 | Light Purple | `#8258d2`| ![#8258d2](https://via.placeholder.com/15/8258d2/000000?text=+) |
-# ports
+# Ports
 | Program | Dark | Light |
 |:---:|:---:|:---:|
 | Kitty | Yes | Yes|
-
+# Images
+![kitty dark theme image](https://raw.githubusercontent.com/quentin-k/space-garden/master/kitty/kitty-dark.png)
+![kitty light theme image](https://raw.githubusercontent.com/quentin-k/space-garden/master/kitty/kitty-light.png)
