@@ -11,10 +11,10 @@ mid gray		04	#69736a
 mid gray		05	#818a7e
 -----------------------
 light gray	06	#9da193
-light gray	08	#b8b5a8
+light gray	07	#b8b5a8
 -----------------------
-white			09	#d1c9c4
-white			10	#e8dfd9
+white			08	#d1c9c4
+white			09	#e8dfd9
 -----------------------
         colors
 -----------------------
